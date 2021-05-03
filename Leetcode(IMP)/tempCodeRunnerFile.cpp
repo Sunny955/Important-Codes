@@ -1,0 +1,1 @@
+cout<<S.substr(1,i)<<" "<<S.substr(i+1,n-i-2)<<" ";
