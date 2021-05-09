@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-/* Two pointers ka tareeka yaad rakhna */
-
 int threeSumClosest(vector<int>& nums, int target)
 {
     int ans=INT_MAX;
